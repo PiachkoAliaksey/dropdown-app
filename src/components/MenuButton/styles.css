@@ -1,0 +1,18 @@
+.chevron {
+    margin-left: auto;
+    transition: 0.3s ease;
+}
+
+button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 0 16px;
+    width: 204px;
+    height: 64px;
+    color: #fff;
+    background: var(--color-menu);
+    border: 0;
+    transition: 0.3s ease;
+    cursor: pointer;
+}
